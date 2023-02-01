@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1623155308 source:c:\users\imedb\onedrive\desktop\new folder\mini projet\main.cpp
+	"trading.h"
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
+1623155428 c:\users\imedb\onedrive\desktop\new folder\mini projet\trading.h
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+
+1623155308 source:c:\users\imedb\onedrive\desktop\new folder\mini projet\trading.cpp
+	"trading.h"
+	<iostream>
+	<string>
+	<vector>
+	<ctime>
+	<fstream>
+	<algorithm>
+
